@@ -13,6 +13,20 @@
   // otherwise it will be ignored
   update:
   [
+    {
+      alpha2Code: "pa",
+      name: "Punjabi",
+      alternateNames: ["Panjabi"],
+    },
+    {
+      alpha3Code: "lad",
+      alternateNames: ["Judaeo-Spanish", "Judeo-Spanish"],
+    },
+    {
+      alpha3Code: "mus",
+      name: "Muscogee",
+      alternateNames: ["Creek", "Muskogee"],
+    },
   ],
   
   // if the item is found it will be removed,
