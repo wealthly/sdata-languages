@@ -867,7 +867,7 @@
     "alpha2Code": null,
     "alpha3Code": "lad",
     "name": "Ladino",
-    "alternateNames": ["Judeo-Spanish"],
+    "alternateNames": ["Judaeo-Spanish","Judeo-Spanish"],
     "nativeName": "Dzhudezmo",
     "direction": "ltr"
   },
@@ -1018,8 +1018,8 @@
   {
     "alpha2Code": null,
     "alpha3Code": "mus",
-    "name": "Creek",
-    "alternateNames": ["Muskogee"],
+    "name": "Muscogee",
+    "alternateNames": ["Creek","Muskogee"],
     "nativeName": "Mvskoke",
     "direction": "ltr"
   },
