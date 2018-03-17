@@ -1,0 +1,23 @@
+//  This file contains manually entered overrides to
+//  be applied after the automated service completes,
+//  each list is in alphabetical order by their code.
+
+{
+  // if the item is found it will be updated,
+  // otherwise it will be added
+  add:
+  [
+  ],
+
+  // if the item is found it will be updated,
+  // otherwise it will be ignored
+  update:
+  [
+  ],
+  
+  // if the item is found it will be removed,
+  // otherwise it will be ignored
+  remove:
+  [
+  ]
+}
