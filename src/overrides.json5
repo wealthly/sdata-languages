@@ -14,11 +14,6 @@
   update:
   [
     {
-      alpha2Code: "pa",
-      name: "Punjabi",
-      alternateNames: ["Panjabi"],
-    },
-    {
       alpha3Code: "lad",
       alternateNames: ["Judaeo-Spanish", "Judeo-Spanish"],
     },
