@@ -177,7 +177,7 @@
   },
   {
     "alpha2Code": "bo",
-    "alpha3Code": "bod",
+    "alpha3Code": "tib",
     "name": "Tibetan",
     "alternateNames": [],
     "nativeName": "བོད་ཡིག",
@@ -281,7 +281,7 @@
   },
   {
     "alpha2Code": "cs",
-    "alpha3Code": "ces",
+    "alpha3Code": "cze",
     "name": "Czech",
     "alternateNames": [],
     "nativeName": "Česky",
@@ -313,7 +313,7 @@
   },
   {
     "alpha2Code": "cy",
-    "alpha3Code": "cym",
+    "alpha3Code": "wel",
     "name": "Welsh",
     "alternateNames": [],
     "nativeName": "Cymraeg",
@@ -329,7 +329,7 @@
   },
   {
     "alpha2Code": "de",
-    "alpha3Code": "deu",
+    "alpha3Code": "ger",
     "name": "German",
     "alternateNames": [],
     "nativeName": "Deutsch",
@@ -369,7 +369,7 @@
   },
   {
     "alpha2Code": "el",
-    "alpha3Code": "ell",
+    "alpha3Code": "gre",
     "name": "Greek",
     "alternateNames": [],
     "nativeName": "Ελληνικά",
@@ -409,7 +409,7 @@
   },
   {
     "alpha2Code": "eu",
-    "alpha3Code": "eus",
+    "alpha3Code": "baq",
     "name": "Basque",
     "alternateNames": [],
     "nativeName": "Euskara",
@@ -417,7 +417,7 @@
   },
   {
     "alpha2Code": "fa",
-    "alpha3Code": "fas",
+    "alpha3Code": "per",
     "name": "Persian",
     "alternateNames": [],
     "nativeName": "فارسی",
@@ -457,7 +457,7 @@
   },
   {
     "alpha2Code": "fr",
-    "alpha3Code": "fra",
+    "alpha3Code": "fre",
     "name": "French",
     "alternateNames": [],
     "nativeName": "Français",
@@ -609,7 +609,7 @@
   },
   {
     "alpha2Code": "hy",
-    "alpha3Code": "hye",
+    "alpha3Code": "arm",
     "name": "Armenian",
     "alternateNames": [],
     "nativeName": "Հայերեն",
@@ -689,7 +689,7 @@
   },
   {
     "alpha2Code": "is",
-    "alpha3Code": "isl",
+    "alpha3Code": "ice",
     "name": "Icelandic",
     "alternateNames": [],
     "nativeName": "Íslenska",
@@ -737,7 +737,7 @@
   },
   {
     "alpha2Code": "ka",
-    "alpha3Code": "kat",
+    "alpha3Code": "geo",
     "name": "Georgian",
     "alternateNames": [],
     "nativeName": "ქართული",
@@ -953,7 +953,7 @@
   },
   {
     "alpha2Code": "mi",
-    "alpha3Code": "mri",
+    "alpha3Code": "mao",
     "name": "Maori",
     "alternateNames": [],
     "nativeName": "Māori",
@@ -969,7 +969,7 @@
   },
   {
     "alpha2Code": "mk",
-    "alpha3Code": "mkd",
+    "alpha3Code": "mac",
     "name": "Macedonian",
     "alternateNames": [],
     "nativeName": "Македонски",
@@ -1001,7 +1001,7 @@
   },
   {
     "alpha2Code": "ms",
-    "alpha3Code": "msa",
+    "alpha3Code": "may",
     "name": "Malay",
     "alternateNames": [],
     "nativeName": "Bahasa Melayu",
@@ -1033,7 +1033,7 @@
   },
   {
     "alpha2Code": "my",
-    "alpha3Code": "mya",
+    "alpha3Code": "bur",
     "name": "Burmese",
     "alternateNames": [],
     "nativeName": "Myanmasa",
@@ -1113,7 +1113,7 @@
   },
   {
     "alpha2Code": "nl",
-    "alpha3Code": "nld",
+    "alpha3Code": "dut",
     "name": "Dutch",
     "alternateNames": [],
     "nativeName": "Nederlands",
@@ -1297,7 +1297,7 @@
   },
   {
     "alpha2Code": "ro",
-    "alpha3Code": "ron",
+    "alpha3Code": "rum",
     "name": "Romanian",
     "alternateNames": [],
     "nativeName": "Română",
@@ -1393,7 +1393,7 @@
   },
   {
     "alpha2Code": "sk",
-    "alpha3Code": "slk",
+    "alpha3Code": "slo",
     "name": "Slovak",
     "alternateNames": [],
     "nativeName": "Slovenčina",
@@ -1433,7 +1433,7 @@
   },
   {
     "alpha2Code": "sq",
-    "alpha3Code": "sqi",
+    "alpha3Code": "alb",
     "name": "Albanian",
     "alternateNames": [],
     "nativeName": "Shqip",
@@ -1761,7 +1761,7 @@
   },
   {
     "alpha2Code": "zh",
-    "alpha3Code": "zho",
+    "alpha3Code": "chi",
     "name": "Chinese",
     "alternateNames": [],
     "nativeName": "中文",
